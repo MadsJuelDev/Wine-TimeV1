@@ -1,9 +1,9 @@
 # Wine-Time
 
-Sem 1 PWD Project
-Woop Woop Project Baby xD
+Semester 1 PWD Project
+A Full-stack miniCMS made in vanilla PHP,Html,CSS,Javascript
 
-For teachers and sensor
+For teachers and Anyone else here...
 
 1. import the database from the sql script "database/WineTimeDB.sql"
 2. The script should generate a phpmyadmin user called 'admin5' with the password '123456' granted all privileges
